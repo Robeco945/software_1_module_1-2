@@ -1,3 +1,4 @@
+"""
 print("PART 1\n")
 
 user = input('what is your name?\n')
@@ -64,4 +65,23 @@ z = random.randint(1,6)
 t = random.randint(1,6)
 
 print("a 3 digit code:" + str(a,b,c))
-print("a 4 digit code is:" + str(x,y,zh
+print("a 4 digit code is:" + str(x,y,zh#
+
+"""
+print("PART 2\n")
+while True:
+    radius_str = input("enter the radius: ")
+    try:
+        #radius_str: float = input('enter the radius: ')
+        radius = float(radius_str)
+        break
+    except ValueError:
+        radius_str = input('please enter a number: ')
+        radius = float(radius_str)
+
+#while(radius_str != int or float ):
+  #  radius_str = input('please enter a number: ')
+#if(radius_str == int or float):
+
+area = radius*radius*3.14
+print('the area of your circle is: ' + str(area),"\n")

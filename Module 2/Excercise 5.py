@@ -5,5 +5,6 @@ lot_str = input("enter the weight in lots: ")
 ta = float(ta_str)
 po = float(po_str)
 lot = float(lot_str)
-kg = (ta*20+po)*0.454+lot*13.3
-print("the weight in modern units:\n" + str(kg),"kg")
+kg = lot * 0.0133 + ta * 8.512 + po * 0.4256
+print(f"the weight in modern units:\nkg: {kg:<4.0f}")
+# |kg=lots×0.0133 | kg=talents×8.512 | kg=lbs×0.4256
