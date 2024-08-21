@@ -64,4 +64,4 @@ z = random.randint(1,6)
 t = random.randint(1,6)
 
 print("a 3 digit code:" + str(a,b,c))
-print("a 4 digit code is:" + str(x,y,z
+print("a 4 digit code is:" + str(x,y,zh
