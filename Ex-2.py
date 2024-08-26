@@ -67,7 +67,7 @@ t = random.randint(1,6)
 print("a 3 digit code:" + str(a,b,c))
 print("a 4 digit code is:" + str(x,y,zh#
 
-"""
+
 print("PART 2\n")
 while True:
     radius_str = input("enter the radius: ")
@@ -85,3 +85,18 @@ while True:
 
 area = radius*radius*3.14
 print('the area of your circle is: ' + str(area),"\n")
+
+from random import randint, randrange, random
+num1 = str(random())
+print(f'code 1: {num1[2:5]}')
+num4 = randint(1,6)
+num5 = randint(1,6)
+num6 = randint(1,6)
+num7 = randint(1,6)
+print(f'code2: {num4}{num5}{num6}{num7}')
+"""
+age = int(input("Enter age: "))
+if 15 <= age < 18:
+    weight = float(input("Enter weight (kg): "))
+if (age >=18 or age>=15 and weight >=55):
+    print("The medicine can be used.")
