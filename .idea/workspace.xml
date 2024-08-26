@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e85cc06-45c4-41b9-8cfb-a77fc7e58ce2" name="Changes" comment="update excercise 1 2">
+    <list default="true" id="7e85cc06-45c4-41b9-8cfb-a77fc7e58ce2" name="Changes" comment="update module 4">
       <change afterPath="$PROJECT_DIR$/../SOFTWARE_1-Module_4/exercise 5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module-3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module-3/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -67,6 +67,7 @@
     "Python.excercise 3.executor": "Run",
     "Python.exercise 3.executor": "Run",
     "Python.exercise 5.executor": "Run",
+    "Python.exercise 6.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -137,7 +138,7 @@
       <workItem from="1724491024217" duration="3784000" />
       <workItem from="1724494867272" duration="69000" />
       <workItem from="1724591079314" duration="49000" />
-      <workItem from="1724652927550" duration="1624000" />
+      <workItem from="1724652927550" duration="5588000" />
     </task>
     <task id="LOCAL-00001" summary="ex2">
       <option name="closed" value="true" />
@@ -227,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724233785241</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update module 4">
+      <option name="closed" value="true" />
+      <created>1724654757098</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724654757098</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +246,8 @@
     <MESSAGE value="ex2" />
     <MESSAGE value="update ex starting 6p2" />
     <MESSAGE value="update excercise 1 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update excercise 1 2" />
+    <MESSAGE value="update module 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update module 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject_ex2$Excercise_2.coverage" NAME="Excercise 2 Coverage Results" MODIFIED="1724261099593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2" />
@@ -247,6 +257,7 @@
     <SUITE FILE_PATH="coverage/pythonProject_ex2$Excercise_4.coverage" NAME="Excercise 4 Coverage Results" MODIFIED="1724261269578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2" />
     <SUITE FILE_PATH="coverage/pythonProject_ex2$exercise_5.coverage" NAME="exercise 5 Coverage Results" MODIFIED="1724654331733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SOFTWARE_1-Module_4" />
     <SUITE FILE_PATH="coverage/pythonProject_ex2$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1724492932183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module 3" />
+    <SUITE FILE_PATH="coverage/pythonProject_ex2$exercise_6.coverage" NAME="exercise 6 Coverage Results" MODIFIED="1724658517659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SOFTWARE_1-Module_4" />
     <SUITE FILE_PATH="coverage/pythonProject_ex2$Excercise_6.coverage" NAME="Excercise 6 Coverage Results" MODIFIED="1724491092515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module 2" />
     <SUITE FILE_PATH="coverage/pythonProject_ex2$test.coverage" NAME="test Coverage Results" MODIFIED="1724188750552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
     <SUITE FILE_PATH="coverage/pythonProject_ex2$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1724494720756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Module 3" />
