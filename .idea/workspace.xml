@@ -29,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SOFTWARE_1-Module_4" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -138,7 +139,7 @@
       <workItem from="1724491024217" duration="3784000" />
       <workItem from="1724494867272" duration="69000" />
       <workItem from="1724591079314" duration="49000" />
-      <workItem from="1724652927550" duration="5953000" />
+      <workItem from="1724652927550" duration="6622000" />
     </task>
     <task id="LOCAL-00001" summary="ex2">
       <option name="closed" value="true" />
